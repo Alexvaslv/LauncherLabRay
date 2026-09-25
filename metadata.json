@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Lab",
+  "description": "Мобильная студия и плейграунд для разработки промптов, генерации кода и тестирования AI-моделей",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
